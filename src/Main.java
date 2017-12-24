@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(hash("alex"));
     }
+
     //Задание 1. Реализовать простейшую хеш-функцию.
     public static int hash(String string) {
         int a = 0;
